@@ -1267,7 +1267,7 @@
       "stock": 123,
       "status": true,
       "price": "1,500,000",
-      "imageSrc": "/assets/images/mobile1.webp",
+      "imageSrc": "./assets/images/mobile1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1289,7 +1289,7 @@
       "stock": 10,
       "status": true,
       "price": "5,500,000",
-      "imageSrc": "/assets/images/mobile2.webp",
+      "imageSrc": "./assets/images/mobile2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1311,7 +1311,7 @@
       "stock": 25,
       "status": false,
       "price": "3,750,000",
-      "imageSrc": "/assets/images/mobile3.webp",
+      "imageSrc": "./assets/images/mobile3.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1333,7 +1333,7 @@
       "stock": 32,
       "status": true,
       "price": "6,300,000",
-      "imageSrc": "/assets/images/laptop1.webp",
+      "imageSrc": "./assets/images/laptop1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1355,7 +1355,7 @@
       "stock": 64,
       "status": true,
       "price": "500,000",
-      "imageSrc": "/assets/images/laptop2.webp",
+      "imageSrc": "./assets/images/laptop2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1377,7 +1377,7 @@
       "stock": 15,
       "status": true,
       "price": "750,000",
-      "imageSrc": "/assets/images/laptop3.webp",
+      "imageSrc": "./assets/images/laptop3.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1399,7 +1399,7 @@
       "stock": 26,
       "status": true,
       "price": "4,500,000",
-      "imageSrc": "/assets/images/handsfree1.webp",
+      "imageSrc": "./assets/images/handsfree1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1421,7 +1421,7 @@
       "stock": 48,
       "status": false,
       "price": "900,000",
-      "imageSrc": "/assets/images/handsfree2.webp",
+      "imageSrc": "./assets/images/handsfree2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1443,7 +1443,7 @@
       "stock": 41,
       "status": true,
       "price": "1,200,000",
-      "imageSrc": "/assets/images/handsfree3.webp",
+      "imageSrc": "./assets/images/handsfree3.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1465,7 +1465,7 @@
       "stock": 150,
       "status": false,
       "price": "2,600,000",
-      "imageSrc": "/assets/images/printer1.webp",
+      "imageSrc": "./assets/images/printer1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1487,7 +1487,7 @@
       "stock": 123,
       "status": true,
       "price": "1,500,000",
-      "imageSrc": "/assets/images/mobile1.webp",
+      "imageSrc": "./assets/images/mobile1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1509,7 +1509,7 @@
       "stock": 10,
       "status": true,
       "price": "5,500,000",
-      "imageSrc": "/assets/images/mobile2.webp",
+      "imageSrc": "./assets/images/mobile2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1531,7 +1531,7 @@
       "stock": 25,
       "status": false,
       "price": "3,750,000",
-      "imageSrc": "/assets/images/mobile3.webp",
+      "imageSrc": "./assets/images/mobile3.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1553,7 +1553,7 @@
       "stock": 32,
       "status": true,
       "price": "6,300,000",
-      "imageSrc": "/assets/images/laptop1.webp",
+      "imageSrc": "./assets/images/laptop1.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1575,7 +1575,7 @@
       "stock": 64,
       "status": true,
       "price": "500,000",
-      "imageSrc": "/assets/images/laptop2.webp",
+      "imageSrc": "./assets/images/laptop2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1597,7 +1597,7 @@
       "stock": 48,
       "status": false,
       "price": "900,000",
-      "imageSrc": "/assets/images/handsfree2.webp",
+      "imageSrc": "./assets/images/handsfree2.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1619,7 +1619,7 @@
       "stock": 41,
       "status": true,
       "price": "1,200,000",
-      "imageSrc": "/assets/images/handsfree3.webp",
+      "imageSrc": "./assets/images/handsfree3.webp",
       "chartData": [
         {
           "month": "شهریور",
@@ -1641,7 +1641,7 @@
       "stock": 150,
       "status": false,
       "price": "2,600,000",
-      "imageSrc": "/assets/images/printer1.webp",
+      "imageSrc": "./assets/images/printer1.webp",
       "chartData": [
         {
           "month": "شهریور",
